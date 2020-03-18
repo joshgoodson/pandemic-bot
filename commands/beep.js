@@ -1,8 +1,8 @@
 module.exports = {
-  name: "ping",
-  description: "Ping!",
+  name: "beep",
+  description: "Beep!",
   cooldown: 5,
   execute(msg, cmd, args) {
-    msg.reply("pong");
+    msg.reply("Boop.");
   }
 };
