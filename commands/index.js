@@ -9,5 +9,6 @@ module.exports = {
   UserInfo: require("./user-info"),
   React: require("./react"),
   Reload: require("./reload"),
-  Help: require("./help")
+  Help: require("./help"),
+  Pronouns: require("./pronouns")
 };
